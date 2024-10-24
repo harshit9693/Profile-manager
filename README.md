@@ -9,10 +9,7 @@ Welcome to the User Account Management App! This is a straightforward React appl
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Features
 
