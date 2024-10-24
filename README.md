@@ -43,20 +43,7 @@ Welcome to the User Account Management App! This is a straightforward React appl
 - **Local Storage**: A web storage feature that allows the app to save data in the user's browser.
 
 ## File Structure
-Profile-manager/
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── Pages/
-│   │   ├── Account.js
-│   │   ├── Login.js
-│   │   └── Register.js
-│   ├── App.js
-│   ├── index.js
-│   └── App.css
-├── package.json
-└── README.md
+Profile-manager/ ├── public/ │ ├── index.html # Main HTML file │ └── favicon.ico # Favicon for the app ├── src/ │ ├── components/ # Contains React components │ │ ├── Account.js # Account management component │ │ ├── Login.js # Login component │ │ └── Register.js # Registration component │ ├── App.js # Main application component that manages routing │ ├── index.js # Entry point of the application │ └── App.css # CSS styles for the application ├── package.json # Project metadata and dependencies └── README.md # Documentation for the project
 
 
 ## Installation
