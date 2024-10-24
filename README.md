@@ -50,6 +50,7 @@ To run this application locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/user-account-management-app.git
    cd user-account-management-app
+
 2. **Install dependencies**:
    Make sure you have Node.js and npm installed. Then run the following command to install the necessary packages:
    ```bash
@@ -59,4 +60,8 @@ To run this application locally, follow these steps:
   After the dependencies are installed, start the development server:
   ```bash
   npm start
+4. **Install dependencies**:
+   Make sure you have Node.js and npm installed. Then run the following command to install the necessary packages:
+   ```bash
+   npm install   
 
