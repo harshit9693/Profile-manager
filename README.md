@@ -58,6 +58,4 @@ To run this application locally, follow these steps:
   After the dependencies are installed, start the development server:
   ```bash
   npm start
-4. **Access the app**:
-  Open your web browser and navigate to ```bash http://localhost:3000 to view the application in action.
 
