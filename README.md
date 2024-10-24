@@ -48,7 +48,7 @@ Welcome to the User Account Management App! This is a straightforward React appl
 ## File Structure
 
 ```plaintext
-user-account-management-app/
+Profile-manager/
 ├── public/
 │   ├── index.html            # Main HTML file
 │   └── favicon.ico           # Favicon for the app
@@ -63,7 +63,7 @@ user-account-management-app/
 ├── package.json              # Project metadata and dependencies
 └── README.md                 # Documentation for the project
 
-
+```
 
 ## Installation
 
@@ -77,11 +77,11 @@ To run this application locally, follow these steps:
 2. **Install dependencies**:
    Make sure you have Node.js and npm installed. Then run the following command to install the necessary packages:
    ```bash
-   npm install   
+   npm install ```
   
 3. **Start the application**:
   After the dependencies are installed, start the development server:
   ```bash
-  npm start
+  npm start ```
 
 
