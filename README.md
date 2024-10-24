@@ -43,9 +43,6 @@ Welcome to the User Account Management App! This is a straightforward React appl
 - **Local Storage**: A web storage feature that allows the app to save data in the user's browser.
 
 ## File Structure
-# User Account Management App
-
-## File Structure
 
 ```plaintext
 Profile-manager/
@@ -77,11 +74,11 @@ To run this application locally, follow these steps:
 2. **Install dependencies**:
    Make sure you have Node.js and npm installed. Then run the following command to install the necessary packages:
    ```bash
-   npm install ```
+   npm install 
   
 3. **Start the application**:
   After the dependencies are installed, start the development server:
   ```bash
-  npm start ```
+  npm start
 
 
