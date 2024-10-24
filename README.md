@@ -65,8 +65,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/user-account-management-app.git
-   cd user-account-management-app
+   git clone https://github.com/harshit9693/Profile-manager.git
 
 2. **Install dependencies**:
    Make sure you have Node.js and npm installed. Then run the following command to install the necessary packages:
