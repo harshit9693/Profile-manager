@@ -58,8 +58,8 @@ To run this application locally, follow these steps:
   
 3. **Start the application**:
   After the dependencies are installed, start the development server:
-  ```bash
-  npm start
+  ```bash npm start
+  
 4. **Install dependencies**:
    Make sure you have Node.js and npm installed. Then run the following command to install the necessary packages:
    ```bash
