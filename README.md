@@ -42,6 +42,23 @@ Welcome to the User Account Management App! This is a straightforward React appl
 - **Bootstrap**: A popular CSS framework that provides pre-styled components, making it easier to build responsive layouts.
 - **Local Storage**: A web storage feature that allows the app to save data in the user's browser.
 
+## File Structure
+Profile-manager/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── Pages/
+│   │   ├── Account.js
+│   │   ├── Login.js
+│   │   └── Register.js
+│   ├── App.js
+│   ├── index.js
+│   └── App.css
+├── package.json
+└── README.md
+
+
 ## Installation
 
 To run this application locally, follow these steps:
@@ -61,5 +78,4 @@ To run this application locally, follow these steps:
   ```bash
   npm start
 
-## File Structure
 
